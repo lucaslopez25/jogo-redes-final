@@ -1,0 +1,197 @@
+[
+	{	"pergunta":"O que significa \"Tá Viajando?\"",
+		"a":"Quando a Pessoa Está Falando Besteira.",
+		"b":"Quando a Pessoa Foi Viajar.",
+		"c":"Quando a Pessoa Está Falando Algo Que Não Tem Nada Haver Com o Assunto.",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Massa?\"",
+		"a":"Autêntico",
+		"b":"legal",
+		"c":"Legítimo",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Se ligue?\"",
+		"a":"Prestar Atenção",
+		"b":"Tomar Cuidado",
+		"c":"Ficar Atento",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Pegue a visão?\"",
+		"a":"Tomar Cuidado",
+		"b":"Prestar Atenção",
+		"c":"Peguar o Óculos",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Se Pique?\"",
+		"a":"Saia Daqui",
+		"b":"Corra",
+		"c":"Vá Embora",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Comer Água?\"",
+		"a":"Esquentar água",
+		"b":"Tomar água",
+		"c":"Beber",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Lá Ele?\"",
+		"a":"Deus me Livre",
+		"b":"Tá Maluco",
+		"c":"Ficou Doido",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Crocodilagem?\"",
+		"a":"Mentir",
+		"b":"Enganar",
+		"c":"Trapacear",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Boca De Me Dê?\"",
+		"a":"Pessoa que Come Muito",
+		"b":"Fala Muito das Outras",
+		"c":"Pessoa Pidona",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a express�o \"Lá Na Casa Da Porra?\"",
+		"a":"Lugar Longe",
+		"b":"Lugar Muito Longe",
+		"c":"Lugar Periogoso",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Bater Um Baba?\"",
+		"a":"Jogar FuteVôlei",
+		"b":"Jogar Vôlei",
+		"c":"Jogar Futebol",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Migué?\"",
+		"a":"Mentira",
+		"b":"Enganar",
+		"c":"Trapacear",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Deixa Na Cocó?\"",
+		"a":"Deixa Guarado",
+		"b":"Deixa Escondido",
+		"c":"Deixa em Segredo",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Ficar De Boa?\"",
+		"a":"Ficar Sossegado",
+		"b":"Ficar Tranquilo",
+		"c":"Ficar Calmo",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Parta A Mil?\"",
+		"a":"Saia Rápido",
+		"b":"Saia Com Cuidado",
+		"c":"Se Corte Em Mil Pedaços",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Vá Num Pé e Volte No Outro?\"",
+		"a":"Vá Pulando Em Um Pé e Volte Pulando Em Outro",
+		"b":"Não Demore",
+		"c":"Pode Ir Portanto Que Volte",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Paletada?\"",
+		"a":"Corri Muito",
+		"b":"Pedalei Muito",
+		"c":"Andei Muito",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Deu Um Zig?\"",
+		"a":"Se Atrapalhou com Algo",
+		"b":"Não Fez Algo",
+		"c":"Fugiu de Algo",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Colé de Mermo?\"",
+		"a":"Não Entendi",
+		"b":"O que está Acontecendo?",
+		"c":"O que foi",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"O Oue é Oue Tá Pegando?\"",
+		"a":"Não Entendi",
+		"b":"O que está Acontecendo?",
+		"c":"O que foi",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Tá Me Tirando?\"",
+		"a":"Tá Tirando Onda Comigo",
+		"b":"Tá Me Elogiando",
+		"c":"Tá Me Estranhando",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Estou De Keké?\"",
+		"a":"Estou Tranquilo",
+		"b":"Estou Estressado",
+		"c":"Estou Chateado",
+		"correta":"a"
+	}
+ 	,
+	{	"pergunta":"O que significa a expressão \"Pegou Ar?\"",
+		"a":"Ficou Animado",
+		"b":"Ficou Gripado",
+		"c":"Ficou Irritado",
+		"correta":"c"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Boutou Pa Fudê?\"",
+		"a":"Irritou",
+		"b":"Arrasou",
+		"c":"Alegrou",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Aquela Pessoa é 09?\"",
+		"a":"Pessoa Fofoqueira",
+		"b":"Pessoa Educada",
+		"c":"Pessoa Mentirosa",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Brocou?\"",
+		"a":"Mandou Mal",
+		"b":"Mandou Muito Bem",
+		"c":"Mandou Bem",
+		"correta":"b"
+	}
+	,
+	{	"pergunta":"O que significa a palavra \"Rebanho?\"",
+		"a":"Várias Pessoas",
+		"b":"Vários Bois",
+		"c":"Várias Cabras",
+		"correta":"a"
+	}
+	,
+	{	"pergunta":"O que significa a expressão \"Vamos no Reggae?\"",
+		"a":"Vamos na Balada",
+		"b":"Vamos Beber",
+		"c":"Vamos em uma Festa",
+		"correta":"c"
+	}
+]
